@@ -1,0 +1,26 @@
+{
+  "name": "MJS",
+  "version": "0.0.0",
+  "description": "MJS website, designed and maintained by bcifu and cphalen",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cphalen/MJS.git"
+  },
+  "keywords": [
+    "UCLS",
+    "MJS",
+    "MSJ",
+    "Maroon",
+    "Journal",
+    "Science"
+  ],
+  "author": "Benjamin Cifu and Campbell Phalen",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cphalen/MJS/issues"
+  }
+}
